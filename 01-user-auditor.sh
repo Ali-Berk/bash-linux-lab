@@ -5,7 +5,7 @@ SHADOW_FILE="/etc/shadow"
 REPORT_FILE="audit_report"
 ERROR_FILE="audit_error"
 
-if [[ "$1" == '--help']]; then
+if [[ "$1" == '--help' || "$1" == '--h' ]]; then
 
 	echo "This script performs a basic security audit by checking."
    echo "Total number of regular users (UID >= 1000)."
