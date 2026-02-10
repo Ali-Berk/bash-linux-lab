@@ -4,7 +4,7 @@ query=$2
 if [[ "$file_name" == '--help' || -z "$file_name" ]]; then
 
 	echo "Filter selected log types from log files"
-	echo 'Usage: ./log-analyzer.sh [file_name] [query]'
+	echo "Usage: $0 [file_name] [query]"
 	exit 0;
 fi
 
