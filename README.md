@@ -8,7 +8,7 @@
 </div>
 
 ## About The Project
-Bu repo, Linux sistem yönetimi ve Bash scripting öğrenme sürecimde geliştirdiğim araçları, otomasyon scriptlerini ve konfigürasyon dosyalarını içerir. Amacım, günlük terminal işlerini kolaylaştıran modüler bir araç seti oluşturmaktır.
+This repo includes the tools automation scripts and configuration files I created while learning Linux system administration and Bash scripting it shows my progress and what I have learned during this process.
 
 ### Built With
 
