@@ -43,6 +43,7 @@ The scripts are designed in a modular structure. They do not require any install
 | **06** | `port-scanner.sh` | A lightweight network port scanner built entirely in Bash. | Networking & SSH |
 | **07** | `dp-coin-optimizer.sh` | Algorithmic resource/coin optimization script. | Dynamic programming with bash|
 | **08** | `automated-backup-system.sh` | A backup system with SSH & Cloud (rclone) support, including smart retention and lifecycle management. | Synthesis of learnings |
+| **09** | `alpine-docker-sim` | A custom container engine with Alpine rootfs & namespace isolation, including strict cgroups resource management. | Containerization (Docker) |
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Linux-badge]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
